@@ -13,3 +13,11 @@ end
 def pop_with_args(array, item1, item2)
   array.pop(item1, item2)
 end
+
+def using_shift(array)
+  array.shift()
+end
+
+def shift_with_args(array)
+  
+end
